@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=connect4
+comment1.params=
+comment1.target=connect4()
+comment10.params=height
+comment10.target=void\ checkTie(int[])
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=board
+comment3.target=void\ clearBoard(char[][])
+comment4.params=board\ g
+comment4.target=void\ drawBoard(char[][],\ java.awt.Graphics)
+comment5.params=board
+comment5.target=void\ printBoard(char[][])
+comment6.params=board\ symbol\ column\ height
+comment6.target=void\ updateBoard(char[][],\ char,\ int,\ int[])
+comment7.params=board\ height
+comment7.target=void\ yourTurn(char[][],\ int[])
+comment8.params=board\ height
+comment8.target=void\ aiTurn(char[][],\ int[])
+comment9.params=board
+comment9.target=void\ checkWin(char[][])
+numComments=11
